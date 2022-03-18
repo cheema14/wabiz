@@ -2,3 +2,4 @@
 app/storage/
 public/storage
 .env
+public/uploads/*
